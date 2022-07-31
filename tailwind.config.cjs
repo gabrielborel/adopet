@@ -2,11 +2,12 @@
 module.exports = {
   content: [
     "./index.html",
-    "./src/**/*.{vue,js,ts,jsx,tsx}",
+    "./src/components/**/*.{vue,js,ts,jsx,tsx}",
+    "./src/pages/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
     colors: {
-      'blue': '##3772FF',
+      'blue': '#3772FF',
       'green': '#36D6AD',
       'coral': '#FC7071',
       'coral-hover': '#FF9D9E',
