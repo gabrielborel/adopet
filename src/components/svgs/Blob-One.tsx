@@ -1,8 +1,8 @@
 export const BlobOne = () => {
   return (
     <svg
-      className="max-w-[560px] absolute"
-      viewBox="0 0 561 470"
+      className="max-w-[300px] absolute"
+      viewBox="0 0 300 470"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >

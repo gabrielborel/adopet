@@ -18,10 +18,10 @@ export default function Home() {
             Adotar pode mudar uma vida. Que tal buscar seu novo melhor amigo
             hoje? Vem com a gente!
           </p>
-          <button className="block text-base sm:text-lg hover:bg-coral-hover transition-colors py-3 w-[180px] sm:w-[230px] md:w-full mx-auto font-semibold rounded-md shadow-xl mt-6 mb-4 bg-coral leading-4">
+          <button className="block text-base sm:text-lg hover:bg-coral-hover transition-colors py-3 w-[180px] sm:w-[230px] md:w-full mx-auto font-semibold rounded-md mt-6 mb-4 bg-coral leading-4 shadow-button">
             Já tenho conta
           </button>
-          <button className="block text-base sm:text-lg hover:bg-coral-hover transition-colors py-3 w-[180px] sm:w-[230px] md:w-full mx-auto font-semibold rounded-md shadow-xl bg-coral leading-4">
+          <button className="block text-base sm:text-lg hover:bg-coral-hover transition-colors py-3 w-[180px] sm:w-[230px] md:w-full mx-auto font-semibold rounded-md shadow-button bg-coral leading-4">
             Quero me cadastrar
           </button>
           <CatAndDog />
