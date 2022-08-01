@@ -1,11 +1,7 @@
-import BlobOneSVG from "../assets/blob-1.svg";
-
 export const BlobOne = () => {
   return (
     <svg
-      className="-z-10 absolute"
-      width="561"
-      height="470"
+      className="max-w-[560px] absolute"
       viewBox="0 0 561 470"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"

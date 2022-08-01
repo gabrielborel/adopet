@@ -14,9 +14,13 @@ module.exports = {
       'cream': '#FCF0E3',
       'gray': '#737380',
       'light-gray': '#BCBCBC',
-      'background-gray': '#F6F6F6'
+      'background-gray': '#F6F6F6',
+      'white': '#FFFFFF'
     },
-    extend: {},
+    fontFamily: {
+      poppins: ['Poppins', 'sans-serif'],
+      ibm: ['IBM Plex Sans', 'sans-serif']
+    }
   },
   plugins: [],
 }
