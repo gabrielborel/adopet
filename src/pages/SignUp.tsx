@@ -61,7 +61,7 @@ export default function SignUp() {
                   placeholder="Crie uma senha"
                   className="bg-background-gray w-full text-center py-[10px] rounded-md text-sm md:text-base placeholder:text-light-gray shadow-input"
                 />
-                <button className="absolute right-4 top-3">
+                <button type="button" className="absolute right-4 top-3">
                   <EyeSlash className="opacity-50 w-[19px] h-[19px] md:w-[22px] md:h-[22px]" />
                 </button>
               </div>
@@ -79,7 +79,7 @@ export default function SignUp() {
                   placeholder="Repita a senha criada a cima"
                   className="bg-background-gray w-full text-center py-[10px] rounded-md text-sm md:text-base placeholder:text-light-gray shadow-input"
                 />
-                <button className="absolute right-4 top-3">
+                <button type="button" className="absolute right-4 top-3">
                   <EyeSlash className="opacity-50 w-[19px] h-[19px] md:w-[22px] md:h-[22px]" />
                 </button>
               </div>
